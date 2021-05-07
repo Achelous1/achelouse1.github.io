@@ -3,7 +3,7 @@ layout  : wiki
 title   : 유용한 웹사이트 
 summary : 유용한 사이트들 모음
 date    : 2021-02-10 17:10:21 +0900
-updated : 2021-04-30 17:03:38 +0900
+updated : 2021-05-07 11:07:39 +0900
 tag     : sites useful
 toc     : true
 public  : true
@@ -20,6 +20,9 @@ latex   : false
 
 #### Vim
 * [VimAwesome](https://vimawesome.com/) Vi Improved의 여러가지 플러그인을 색인할 수 있는 사이트
+
+#### VS Code Plugins
+* [Thunder Client](https://www.thunderclient.io/) VS Code에서 곧바로 API를 실행해 볼 수 있는 플러그인 (Postman 대용)
 
 #### Front-End
 * [W3Schools](https://www.w3schools.com/) 웹개발 레퍼런스 및 강의사이트
